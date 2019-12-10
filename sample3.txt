@@ -1,2 +1,6 @@
 Sample3
+<<<<<<< HEAD
 Sample3
+=======
+Sample4
+>>>>>>> develop
