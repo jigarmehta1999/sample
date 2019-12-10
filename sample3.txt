@@ -1,6 +1,4 @@
 Sample3
-HEAD
+Sample5
 Sample3
-=======
-Sample4
->>>>>>> develop
+Sample5
