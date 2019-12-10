@@ -1,5 +1,5 @@
 Sample3
-<<<<<<< HEAD
+HEAD
 Sample3
 =======
 Sample4
